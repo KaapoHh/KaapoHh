@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.Net, C# on Microsoft Visual Studio**
 
-- 📫 How to reach me **kahaapala@gmail.com**
+- 📫 How to reach me **kahaapala08@gmail.com**
   
 - ☎️ Phone number: **0401762859**
 
