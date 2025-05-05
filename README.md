@@ -1,7 +1,7 @@
 <h1 align="center">Terve 👋, olen Kaapo Haapala</h1>
 <h3 align="center">Opiskelen Gradialla ohjelmistokehittäjäksi.</h3>
 
-- 📍 Jyväskylä, Suomi
+- 📍 Jyväskylä, Finland
 
 - 🌱 I’m currently learning **.Net, C# on Microsoft Visual Studio**
 
