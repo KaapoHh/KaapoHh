@@ -1,3 +1,5 @@
+![Kaapo Haapala](https://github.com/user-attachments/assets/e9971a23-e6f5-4499-a2a7-2a7dcd1309ef)
+
 <h1 align="center">Terve 👋, olen Kaapo Haapala</h1>
 <h3 align="center">Opiskelen Gradialla ohjelmistokehittäjäksi.</h3>
 
